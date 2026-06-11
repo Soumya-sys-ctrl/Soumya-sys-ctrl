@@ -315,7 +315,9 @@ Developed production-grade software solutions focused on modern web technologies
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/soumyashruti/soumyashruti/output/github-contribution-grid-snake-dark.svg"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Soumya-sys-ctrl/Soumya-sys-ctrl/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 </div>
 
