@@ -8,8 +8,7 @@
 
 ![](https://img.shields.io/badge/MCA-AI%20%26%20ML-7C3AED?style=for-the-badge)
 ![](https://img.shields.io/badge/BCA-BIT%20Mesra-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-8.44-A855F7?style=for-the-badge)
-![](https://img.shields.io/badge/Location-Nagpur%2C%20India-6366F1?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Pune%2C%20India-6366F1?style=for-the-badge)
 
 <br/>
 
@@ -37,7 +36,7 @@
 
 # About Me
 
-Results-driven **Software Engineer, Full-Stack Developer, and AI/ML Engineer** pursuing an MCA in Artificial Intelligence & Machine Learning with a strong track record of building scalable software systems, intelligent applications, and production-grade web platforms.
+Results-driven **Software Engineer, Full-Stack Developer, and AI/ML Engineer** completed MCA in Artificial Intelligence & Machine Learning with a strong track record of building scalable software systems, intelligent applications, and production-grade web platforms.
 
 I specialize in designing modern software architectures, developing end-to-end web applications, integrating AI capabilities into products, and solving real-world engineering challenges using scalable technologies.
 
