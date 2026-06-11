@@ -109,7 +109,7 @@ My expertise spans across:
 # Featured Projects
 
 <details>
-<summary><b>🚀 Lumina Code — AI Code Reviewer Platform</b></summary>
+<summary><b>🚀 Lumina Code - AI powered code review platform handling 50+ concurrent submissions and reducing review turnaround by 60%.</b></summary>
 
 ### Project Overview
 
@@ -228,18 +228,6 @@ Developed production-grade software solutions focused on modern web technologies
 ---
 
 # Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-Learning_Path-232F3E?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Database_Fundamentals-F80000?style=for-the-badge&logo=oracle)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
 
 ## Industry Certifications
 
