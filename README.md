@@ -241,10 +241,6 @@ Developed production-grade software solutions focused on modern web technologies
 
 ![](https://img.shields.io/badge/Oracle-Database_Fundamentals-F80000?style=for-the-badge&logo=oracle)
 
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Certified-4F46E5?style=for-the-badge)
-
 ## Cisco
 
 ![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
