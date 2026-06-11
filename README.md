@@ -31,10 +31,6 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=soumyashruti&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/soumyashruti?style=for-the-badge&color=4F46E5)
-![](https://img.shields.io/github/stars/soumyashruti?affiliations=OWNER&style=for-the-badge&color=A855F7)
-
 </div>
 
 ---
