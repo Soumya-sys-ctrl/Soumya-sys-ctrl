@@ -7,7 +7,7 @@
 <br/>
 
 ![](https://img.shields.io/badge/MCA-AI%20%26%20ML-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/BCA-BIT%20Mesra-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/BCA-Computer%20Applications-4F46E5?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-Pune%2C%20India-6366F1?style=for-the-badge)
 
 <br/>
